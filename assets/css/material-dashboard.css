@@ -76,6 +76,7 @@
   --bs-white-rgb: 255, 255, 255;
   --bs-black-rgb: 10, 10, 10;
   --bs-font-sans-serif: Inter, Helvetica, Arial, sans-serif;
+  --bs-font-serif: Cormorant Infant, serif;
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   --bs-body-font-family: var(--bs-font-sans-serif);
